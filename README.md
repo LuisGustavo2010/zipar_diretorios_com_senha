@@ -1,0 +1,1 @@
+# zipar_diretorios_com_senha
